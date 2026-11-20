@@ -1,0 +1,10 @@
+backend/target/
+.idea/
+*.iml
+.vscode/
+*.log
+.env
+
+storage/images/**
+!storage/images/.gitkeep
+storage/users.json
